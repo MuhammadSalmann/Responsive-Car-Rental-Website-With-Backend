@@ -92,7 +92,7 @@ c1.addEventListener('click', function() {
     carName = '2020 Honda BR-V'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
@@ -102,7 +102,7 @@ c2.addEventListener('click', function() {
     carName = '2019 Honda Civic TypeR'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
@@ -112,7 +112,7 @@ c3.addEventListener('click', function() {
     carName = '2020 Honda Civic'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
@@ -122,7 +122,7 @@ c4.addEventListener('click', function() {
     carName = '2018 Honda Civic'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
@@ -132,7 +132,7 @@ c5.addEventListener('click', function() {
     carName = '2020 Honda Accord'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
@@ -142,7 +142,7 @@ c6.addEventListener('click', function() {
     carName = '2021 Porsche CaymanS'
     var encodedcarName = encodeURIComponent(carName);
     // sending additonal data like carName and alert msg
-    window.location.href = "../index.html?carName=" + encodedcarName;
+    window.location.href = "index.html?carName=" + encodedcarName;
   } else {
     alert("You are not Logged In");
   }
