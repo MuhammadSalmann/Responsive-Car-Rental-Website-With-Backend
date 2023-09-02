@@ -61,7 +61,7 @@ header{
 .navbar a:hover::after{ width: 100%; }
 #menu-icon {
     font-size: 24px;
-    cursor: pointer;    /*  changes the cursor to a hand icon when the user hovers over the element, indicating that it is clickable. */
+    cursor: pointer;    
     z-index: 1001;      /*  sets the z-index of the element to 1001, which means it will be positioned in front of other elements with a lower z-index. */
     display: none;
 }
